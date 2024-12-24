@@ -1,1 +1,1 @@
-do or die
+ding dong bell
